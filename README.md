@@ -6,7 +6,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mykaa) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/mynameismyka) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mykaadev) 
 -----
 [![](https://visitcount.itsvg.in/api?id=mmykaa&icon=8&color=12)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=EpicGames&label=Profile%20Views&color=12&icon=8&pretty=true)](https://visitcount.itsvg.in)
 -----
 ### 💻 Tech Stack & Stats:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
