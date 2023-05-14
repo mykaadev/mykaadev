@@ -1,5 +1,5 @@
 ### 😎 About Me:
-👀 my name is mykaa<br>💾 coding games since i was 14<br>👍 i'm a smart guy, in dumb situations<br>⚙️ tools programmer @ Saber Interactive Porto<br>⚡ indie game dev<br>🌱 current project: Curse of the Abyss
+👀 my name is mykaa<br>💾 coding games since i was 14<br>👍 i'm a smart guy in dumb situations<br>⚙️ tools programmer @ Saber Interactive Porto<br>⚡ indie game dev<br>🌱 current project: Curse of the Abyss
 
 -----
 ### 🌐 Socials:
