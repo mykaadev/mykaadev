@@ -34,14 +34,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="50" alt="slack logo"  />  <img width="12" />
 </div>
 
-
+<!--
 ---
 ### 🧑‍💻 Git Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=mykaadev&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mykaadev&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mykaadev&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
- 
+ -->
 -----
 ### 📖 Random Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
