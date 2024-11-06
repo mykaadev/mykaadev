@@ -1,53 +1,59 @@
+### <h1 align="center">hi! I'm mykaa! </h1>
+###### <p align = center> welcome to my slice of internet </p>
+---
 ### 😎 About Me:
-👀 my name is mykaa<br>
-💾 coding games since i was 14<br>
-⚙️ tools programmer @ Saber Interactive Porto<br>
-<!--
-⚡ indie game dev<br>
-🌱 current project: Curse of the Abyss
--->
+💾 making games since 2014 <br>
+⚙️ tools programmer @ Saber Interactive <br>
 
------
+---
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mykaa) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/mynameismyka) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mykaadev) 
+<div align=left>
+<span align="right">
+<a href="www.linkedin.com/in/mykaa/"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="LinkedIn" width=50px"></a>
+<a href="www.twitter.com/mykaadev"><img src="https://www.svgrepo.com/show/475689/twitter-color.svg" alt="X" width=50px"></a>
+</span>
+<span align="left">
+<a href="www.discord.gg/A8bwhNp"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" width=50px"></a>
+<a href="www.twitch.tv/mynameismyka"><img src="https://www.svgrepo.com/show/448251/twitch.svg" alt="Twitch" width=50px"></a></span>
+</div>
+ 
 -----
-[![](https://visitcount.itsvg.in/api?id=mmykaa&icon=8&color=12)](https://visitcount.itsvg.in)
------
-### 💻 Tech Stack & Stats:
+### 🛠 Tech Stack:
+
+<div align="left">
+<img src="https://cdn.simpleicons.org/unity/FFFFFF" height="50" alt="unity logo"/>  <img width="12" />
+ <img src="https://skillicons.dev/icons?i=unreal" height="50" alt="unreal engine logo"  /> <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/452183/cpp.svg" height="50" alt="cplusplus logo"  />
+  <img width="12" />
+ <img src="https://www.svgrepo.com/show/448225/github.svg" height="50" alt="github logo"/>  <img width="12"/>
+   <img src="https://www.svgrepo.com/show/373662/helix.svg" height="50" alt="processing logo"  />  <img width="12" />
+  <img src="https://www.svgrepo.com/show/353557/clion.svg" height="50" alt="vscode logo"  />  <img width="12" />
+  <img src="https://www.svgrepo.com/show/354520/visual-studio.svg" height="50" alt="visualstudio logo"  />  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="50" alt="slack logo"  />  <img width="12" />
+</div>
 
 
-    
-<div style="width: 100%;">
-<div style="width: 50%; height: 100px; float: left;">
-     
-<br/> ![UNREAL](https://img.shields.io/badge/unreal-%2320232a.svg?style=for-the-badge&logo=unreal-engine&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-<br/> ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
-
+---
+### 🧑‍💻 Git Stats:
 </div>
 <div style="margin-left: 50%; height: 100px;"> 
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mykaadev&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-</div>
-</div>
-
-  
+ 
 -----
-### ✍️ Random Dev Quote
+### 📖 Random Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
------
 
-<!--
-**mmykaa/mmykaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### what a wonderful random quote right that got generated right? 👀 
+[![](https://visitcount.itsvg.in/api?id=mmykaa&icon=8&color=12)](https://visitcount.itsvg.in)
+---
+##### well, I hope you were able to find what you were looking for 🔍
+##### I hope you enjoyed your stay It's good to have you here, even if it's just for the day ❤️ 👀 
 
-Here are some ideas to get you started:
+ <h1 align="center"> 🛡️ It's dangerous to go alone! Take this! 🗡️ </h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ ---
