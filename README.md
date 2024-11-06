@@ -37,11 +37,10 @@
 
 ---
 ### 🧑‍💻 Git Stats:
-</div>
-<div style="margin-left: 50%; height: 100px;"> 
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mykaadev&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+![](https://github-readme-stats.vercel.app/api?username=mykaadev&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mykaadev&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mykaadev&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
  
 -----
 ### 📖 Random Quote:
