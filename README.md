@@ -1,12 +1,14 @@
-### <h1 align="center">hi! I'm mykaa! </h1>
-###### <p align = center> welcome to my slice of internet </p>
+<h1 align="center">hi! I'm mykaa! </h1>
+
+<p align = center> welcome to my slice of internet </p>
+
 ---
-### 😎 About Me:
+
+## 😎 About Me:
 💾 making games since 2014 <br>
 ⚙️ tools programmer @ Saber Interactive <br>
 
----
-### 🌐 Socials:
+## 🌐 Socials:
 <div align=left>
 <span align="right">
 <a href="www.linkedin.com/in/mykaa/"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="LinkedIn" width=50px"></a>
@@ -17,9 +19,7 @@
 <a href="www.twitch.tv/mynameismyka"><img src="https://www.svgrepo.com/show/448251/twitch.svg" alt="Twitch" width=50px"></a></span>
 </div>
  
------
-### 🛠 Tech Stack:
-
+## 🛠 Tech Stack:
 <div align="left">
 <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="50" alt="unity logo"/>  <img width="12" />
  <img src="https://skillicons.dev/icons?i=unreal" height="50" alt="unreal engine logo"  /> <img width="12" />
@@ -43,16 +43,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mykaadev&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
  -->
 -----
-### 📖 Random Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<h1 align="center"> 🛡️ It's dangerous to go alone! Take this! 🗡️ </h1>
 
-##### what a wonderful random quote right that got generated right? 👀 
-[![](https://visitcount.itsvg.in/api?id=mmykaa&icon=8&color=12)](https://visitcount.itsvg.in)
----
-##### well, I hope you were able to find what you were looking for 🔍
-##### I hope you enjoyed your stay It's good to have you here, even if it's just for the day ❤️ 👀 
+<p>
+I hope you enjoyed your stay It's good to have you here, even if it's just for the day ❤️ 👀 
+</p>
 
- <h1 align="center"> 🛡️ It's dangerous to go alone! Take this! 🗡️ </h1>
-
-
- ---
