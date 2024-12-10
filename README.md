@@ -48,4 +48,5 @@
 <h3> 🛡️ It's dangerous to go alone! Take this! 🗡️ </h3>
 <p> I hope you enjoyed your stay It's good to have you here, even if it's just for the day ❤️ 👀</p>
 <a href="https://buymeacoffee.com/mykaadev"><img src="https://www.svgrepo.com/show/476855/coffee-to-go.svg" alt="Coffee" width=50px"></a>
+<p><b>Buy me a coffee!</b></p>
 </div>
