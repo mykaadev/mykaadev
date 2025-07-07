@@ -32,17 +32,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" style="width:50px; height:50px; object-fit:contain; margin-right:10px;" alt="slack"/>
 </div>
 
+<!--
 ## 🧑‍💻 Git Stats
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=mykaadev&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="100"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mykaadev&theme=tokyonight&hide_border=false" height="100"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mykaadev&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" height="100"/>
 </div>
+-->
 
 ## ❤️ Thank You
 <div align="center">
 <h3> 🛡️ It's dangerous to go alone! Take this! 🗡️ </h3>
-<p> I hope you enjoyed your stay It's good to have you here, even if it's just for the day ❤️ 👀</p>
 <a href="https://buymeacoffee.com/mykaadev"><img src="https://www.svgrepo.com/show/476855/coffee-to-go.svg" alt="Coffee" width=50px"></a>
 <p><b>Buy me a coffee!</b></p>
 </div>
