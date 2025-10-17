@@ -21,15 +21,28 @@
  
 ## 🛠 Tech Stack
 <div align="left">
-  <img src="https://cdn.simpleicons.org/unity/FFFFFF" style="width:50px; height:50px; object-fit:contain; margin-right:10px;" alt="unity"/>
-  <img src="https://skillicons.dev/icons?i=unreal" style="width:50px; height:50px; object-fit:contain; margin-right:10px;" alt="unreal"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="width:50px; height:50px; object-fit:contain; margin-right:10px;" alt="csharp"/>
-  <img src="https://www.svgrepo.com/show/452183/cpp.svg" style="width:50px; height:50px; object-fit:contain; margin-right:10px;" alt="cplusplus"/>
-  <img src="https://www.svgrepo.com/show/448225/github.svg" style="width:50px; height:50px; object-fit:contain; margin-right:10px;" alt="github"/>
-  <img src="https://www.svgrepo.com/show/373662/helix.svg" style="width:50px; height:50px; object-fit:contain; margin-right:10px;" alt="helix"/>
-  <img src="https://www.svgrepo.com/show/353557/clion.svg" style="width:50px; height:50px; object-fit:contain; margin-right:10px;" alt="clion"/>
-  <img src="https://www.svgrepo.com/show/354520/visual-studio.svg" style="width:50px; height:50px; object-fit:contain; margin-right:10px;" alt="visualstudio"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" style="width:50px; height:50px; object-fit:contain; margin-right:10px;" alt="slack"/>
+  <img src="https://mykaadev.github.io/resources/icons/unreal.svg" style="width:50px; height:50px; object-fit:contain; margin-right:10px;" alt="unreal"/>
+  <img src="https://mykaadev.github.io/resources/icons/unity.svg" style="width:50px; height:50px; object-fit:contain; margin-right:10px;" alt="unity"/>
+</div>
+<div align="left">
+  <img src="https://mykaadev.github.io/resources/icons/cpp.svg" style="width:50px; height:50px; object-fit:contain; margin-right:10px;" alt="cplusplus"/>
+  <img src="https://mykaadev.github.io/resources/icons/cs.svg" style="width:50px; height:50px; object-fit:contain; margin-right:10px;" alt="csharp"/>
+</div>
+<div align="left">
+  <img src="https://mykaadev.github.io/resources/icons/windows.svg" style="width:50px; height:50px; object-fit:contain; margin-right:10px;" alt="Windows"/>
+  <img src="https://mykaadev.github.io/resources/icons/playstation.svg" style="width:50px; height:50px; object-fit:contain; margin-right:10px;" alt="PlayStation"/>
+  <img src="https://mykaadev.github.io/resources/icons/xbox.svg" style="width:50px; height:50px; object-fit:contain; margin-right:10px;" alt="XBox"/>
+</div>
+<div align="left">
+  <img src="https://mykaadev.github.io/resources/icons/p4v.svg" style="width:50px; height:50px; object-fit:contain; margin-right:10px;" alt="P4V"/>
+  <img src="https://mykaadev.github.io/resources/icons/githublogo.svg" style="width:50px; height:50px; object-fit:contain; margin-right:10px;" alt="Git"/>
+</div>
+<div align="left">
+  <img src="https://mykaadev.github.io/resources/icons/RenderDoc.svg" style="width:50px; height:50px; object-fit:contain; margin-right:10px;" alt="RenderDoc"/>
+  <img src="https://mykaadev.github.io/resources/icons/houdini.svg" style="width:50px; height:50px; object-fit:contain; margin-right:10px;" alt="Houdini"/>
+   <img src="https://mykaadev.github.io/resources/icons/blender.svg" style="width:50px; height:50px; object-fit:contain; margin-right:10px;" alt="Blender"/>
+   <img src="https://mykaadev.github.io/resources/icons/photoshop.svg" style="width:50px; height:50px; object-fit:contain; margin-right:10px;" alt="Photoshop"/>
+   <img src="https://mykaadev.github.io/resources/icons/figma.svg" style="width:50px; height:50px; object-fit:contain; margin-right:10px;" alt="Figma"/>
 </div>
 
 <!--
