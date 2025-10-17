@@ -44,6 +44,10 @@
    <img src="https://mykaadev.github.io/resources/icons/photoshop.svg" style="width:50px; height:50px; object-fit:contain; margin-right:10px;" alt="Photoshop"/>
    <img src="https://mykaadev.github.io/resources/icons/figma.svg" style="width:50px; height:50px; object-fit:contain; margin-right:10px;" alt="Figma"/>
 </div>
+<div align="left">
+  <img src="https://mykaadev.github.io/resources/icons/jira.svg" style="width:50px; height:50px; object-fit:contain; margin-right:10px;" alt="jira"/>
+  <img src="https://mykaadev.github.io/resources/icons/confluence.svg" style="width:50px; height:50px; object-fit:contain; margin-right:10px;" alt="confluence"/>
+</div>
 
 <!--
 ## 🧑‍💻 Git Stats
