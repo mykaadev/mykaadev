@@ -23,28 +23,18 @@
 <div align="left">
   <img src="https://mykaadev.github.io/resources/icons/unreal.svg" style="width:50px; height:50px; object-fit:contain; margin-right:10px;" alt="unreal"/>
   <img src="https://mykaadev.github.io/resources/icons/unity.svg" style="width:50px; height:50px; object-fit:contain; margin-right:10px;" alt="unity"/>
-</div>
-<div align="left">
   <img src="https://mykaadev.github.io/resources/icons/cpp.svg" style="width:50px; height:50px; object-fit:contain; margin-right:10px;" alt="cplusplus"/>
   <img src="https://mykaadev.github.io/resources/icons/cs.svg" style="width:50px; height:50px; object-fit:contain; margin-right:10px;" alt="csharp"/>
-</div>
-<div align="left">
   <img src="https://mykaadev.github.io/resources/icons/windows.svg" style="width:50px; height:50px; object-fit:contain; margin-right:10px;" alt="Windows"/>
   <img src="https://mykaadev.github.io/resources/icons/playstation.svg" style="width:50px; height:50px; object-fit:contain; margin-right:10px;" alt="PlayStation"/>
   <img src="https://mykaadev.github.io/resources/icons/xbox.svg" style="width:50px; height:50px; object-fit:contain; margin-right:10px;" alt="XBox"/>
-</div>
-<div align="left">
   <img src="https://mykaadev.github.io/resources/icons/p4v.svg" style="width:50px; height:50px; object-fit:contain; margin-right:10px;" alt="P4V"/>
   <img src="https://mykaadev.github.io/resources/icons/githublogo.svg" style="width:50px; height:50px; object-fit:contain; margin-right:10px;" alt="Git"/>
-</div>
-<div align="left">
   <img src="https://mykaadev.github.io/resources/icons/RenderDoc.svg" style="width:50px; height:50px; object-fit:contain; margin-right:10px;" alt="RenderDoc"/>
   <img src="https://mykaadev.github.io/resources/icons/houdini.svg" style="width:50px; height:50px; object-fit:contain; margin-right:10px;" alt="Houdini"/>
    <img src="https://mykaadev.github.io/resources/icons/blender.svg" style="width:50px; height:50px; object-fit:contain; margin-right:10px;" alt="Blender"/>
    <img src="https://mykaadev.github.io/resources/icons/photoshop.svg" style="width:50px; height:50px; object-fit:contain; margin-right:10px;" alt="Photoshop"/>
    <img src="https://mykaadev.github.io/resources/icons/figma.svg" style="width:50px; height:50px; object-fit:contain; margin-right:10px;" alt="Figma"/>
-</div>
-<div align="left">
   <img src="https://mykaadev.github.io/resources/icons/jira.svg" style="width:50px; height:50px; object-fit:contain; margin-right:10px;" alt="jira"/>
   <img src="https://mykaadev.github.io/resources/icons/confluence.svg" style="width:50px; height:50px; object-fit:contain; margin-right:10px;" alt="confluence"/>
 </div>
